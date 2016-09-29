@@ -1,0 +1,73 @@
+{
+  "website":{
+    "title": "André Zenzen blog"
+  },
+  "nav":{
+    "home": "Início",
+    "about_me": "Sobre mim",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "career": "Carreira",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "Sobre mim",
+    "des": "Analista desenvolvedor full stack, freelancer, aventureiro no universo da programação e sempre em busca de novos desafios e conhecimentos."
+  },
+  "skills":{
+    "my_skills": "Minhas Habilidades"
+  },
+  "projects":{
+    "my_projects": "Meus Projetos",
+    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
+    "searchkit": "React UI components / widgets. The easiest way to build a great search experience with Elasticsearch."
+  },
+  "career":{
+    "my_career": "Minha Carreira",
+
+    "speak": "Língua inglesa",
+    "speak_des": "Estudando a língua inglesa e a língua alemã.",
+    "speak_date": "Atualmente estudando",
+    "speak_job": "Estudante",
+
+    "course": "Cursos Elasticsearch",
+    "course_des": "Cursos relacionados ao Elasticsearch",
+    "course_date": "Abril de 2016",
+    "course_job": "Estudante",
+
+    "specialization": "Pós-Graduação",
+    "specialization_des": "Concluída pós-graduação em Aplicações para Web, Universidade FURG",
+    "specialization_date": "Dezembro de 2015",
+    "specialization_job": "Estudante",
+
+    "college": "Graduação",
+    "college_des": "Concluída graduação em Tecnólogo em Sistemas para Internet, Universidade Feevale",
+    "college_date": "Julho de 2013",
+    "college_job": "Estudante",
+
+    "work": "E-Storage Tecnologia Ltda",
+    "work_des": "Desenvolvimento de buscas coorporativas usando Google Search Appliance e Elasticsearch. Construindo sites em Html5 e Javascript, utilizando Php, Java e Python com SGBDs Oracle, Postgres, Sqlserver e Mysql para integrações e realizando treinamentos sobre as aplicações desenvolvidas.",
+    "work_date": "Julho de 2013",
+    "work_job": "Analista desenvolvedor web",
+
+    "tester": "Testing Company Soluções em Qualidade de Software",
+    "tester_des": "Realização de testes de sistemas, criação de casos de testes, implantação de testes automatizados, acompanhamento de casos de testes e trazer novas práticas e soluções para inovação.",
+    "tester_date": "Junho de 2013",
+    "tester_job": "Testador de sistemas",
+
+    "support": "Get Net Tecnologia",
+    "support_des": "Suporte técnico com atendimento à redes de TEF Dedicado e sistemas de POS. Atividades Desenvolvidas como atendimento de instalação de TEF Dedicado aos produtos Verticais, ADQ e PINPAD, manutenção de TEF Dedicado via análise de LOG, monitoração de Link X25 das redes de TEF Dedicado, laboração de relatórios e Indicadores de acompanhamento, atendimento aos Executivos de conta da Getnet, Banco Santander e conhecimento junto as soluções de TEF Sitef, Direção, Itautec, Sixnet, Auttar e Acesso.",
+    "support_date": "Dezembro de 2012",
+    "support_job": "Suporte Técnico"
+
+  },
+  "blog":{
+    "my_blog": "Meu Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
