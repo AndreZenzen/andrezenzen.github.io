@@ -1,11 +1,11 @@
-- name: 'Searchkit'
-  i18n: 'searchkit'
-  url: '/AndreZenzen/searchkit'
-  img: 'static/img/landing/search.png'
-  desc: "React UI components / widgets. The easiest way to build a great search experience with Elasticsearch."
+# - name: 'Searchkit'
+#   i18n: 'searchkit'
+#   url: '/AndreZenzen/searchkit'
+#   img: 'static/img/landing/search.png'
+#   desc: "React UI components / widgets. The easiest way to build a great search experience with Elasticsearch."
 
-- name: 'Jekyll Theme Portfolio and Blog'
-  i18n: 'angularjs'
-  url: '/AndreZenzen/jalpc_jekyll_theme'
-  img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+- name: 'Portfolio with Jekyll'
+  i18n: 'portfolio'
+  url: '/AndreZenzen/andrezenzen.github.io'
+  img: 'static/img/landing/jekyll.png'
+  desc: "It is a web application deployed by Jekyll on github (gh-pages)."
