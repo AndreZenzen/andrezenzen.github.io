@@ -1,17 +1,31 @@
-- name: Python
+- name: XSL
+  percentage: 95
+
+- name: Javascript
+  percentage: 90
+
+- name: PHP
   percentage: 85
 
 - name: HTML/CSS
-  percentage: 65
-
-- name: Linux/Shell
-  percentage: 75
+  percentage: 85
 
 - name: jQuery
-  percentage: 70
+  percentage: 80
 
 - name: AngularJS
   percentage: 80
 
-- name: Ionic
+- name: Java
+  percentage: 75
+
+- name: SQL
+  percentage: 75
+
+- name: Linux/Shell
   percentage: 65
+
+- name: ReactJS
+  percentage: 65
+
+
