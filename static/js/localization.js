@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var i18nOpts = {
-    lng: 'en',
-    fallbackLng: 'en',
+    lng: 'br',
+    fallbackLng: 'br',
     resGetPath: 'static/locales/__lng__.json'
   };
 
