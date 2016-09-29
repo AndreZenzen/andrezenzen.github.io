@@ -1,50 +1,50 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Ingles
+    i18n: speak
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: Estudando o idioma ingles
+    i18n: speak_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Atualmente
+    i18n: speak_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: Student
+    i18n: speak_job
+  icon: fa-microphone
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Cursos Elasticsearch
+    i18n: course
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: <p> CORE ELASTICSEARCH DEVELOPER </p> <p>LOGSTASH & KIBANA e CORE ELASTICSEARCH OPERATIONS </p> <p>HANDS-ON WORKSHOP WITH ELASTICSEARCH </p>
+    i18n: course_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Abril de 2016
+    i18n: course_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Student
+    i18n: course_job
+  icon: fa-book
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: Specialization
+    i18n: specialization
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: Concluída especialização em Aplicações para Web , Universiade FURG.
+    i18n: specialization_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: Jul. 2013
+    i18n: specialization_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+    detail: Student
+    i18n: specialization_job
+  icon: fa-book
 
 - name:
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: Graduado em Tecnólogo em sistemas para Internet, Universiade Feevale.
     i18n: college_des
   date:
     detail: Jul. 2013
@@ -53,3 +53,46 @@
     detail: Student
     i18n: college_job
   icon: fa-book
+
+- name:
+    detail: Work
+    i18n: work
+  desc:
+    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    i18n: work_des
+  date:
+    detail: Apr. 2016
+    i18n: work_date
+  job:
+    detail: Python Developer
+    i18n: work_job
+  icon: fa-code
+
+- name:
+    detail: Testing Company Soluções em Qualidade de Software
+    i18n: tester
+  desc:
+    detail: Realização de testes de sistemas, criação de casos de testes, implantação de testes automatizados, acompanhamento de casos de testes e trazer novas práticas e soluções para inovação.
+    i18n: tester_des
+  date:
+    detail: Junho de 2013
+    i18n: tester_date
+  job:
+    detail: Testador de sistemas
+    i18n: tester_job
+  icon: fa-code
+
+- name:
+    detail: Get Net Tecnologia
+    i18n: support
+  desc:
+    detail: Suporte técnico com atendimento à redes de TEF Dedicado e sistemas de POS. Atividades Desenvolvidas como atendimento de instalação de TEF Dedicado aos produtos Verticais, ADQ e PINPAD, manutenção de TEF Dedicado via análise de LOG, monitoração de Link X25 das redes de TEF Dedicado, laboração de relatórios e Indicadores de acompanhamento, atendimento aos Executivos de conta da Getnet, Banco Santander e conhecimento junto as soluções de TEF Sitef, Direção, Itautec, Sixnet, Auttar e Acesso.
+    i18n: support_des
+  date:
+    detail: Dezembro de 2012
+    i18n: support_date
+  job:
+    detail: Suporte Técnico
+    i18n: support_job
+  icon: fa-phone
+
