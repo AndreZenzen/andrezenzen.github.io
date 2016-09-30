@@ -11,7 +11,7 @@ $(document).ready(function () {
             "Content-Type": "application/json"
         },
         params: {
-            "where": {"website": "www.jack003.com"}
+            "where": {"website": "www.andrezenzen.com.br"}
         },
         success: function(data, textStatus, jqXHR)
         {
@@ -21,7 +21,7 @@ $(document).ready(function () {
             var website_id = data.results[0].objectId;
             $("#jalpc_site_pv").html('<span class="navy">' + website_count + '</span>&nbsp;<span data-i18n="link.view">views</span>&nbsp;||&nbsp;' + pre_content);
             var dataForm = {
-                "website": "www.jack003.com",
+                "website": "www.andrezenzen.com.br",
                 "count": website_count
             };
             $.ajax({
