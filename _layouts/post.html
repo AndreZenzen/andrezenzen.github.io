@@ -29,7 +29,9 @@ layout: default
                         </div>
                         <div class="col-md-6">
                             <div class="small text-right">
+                                {% if site.changyan or site.disqus %}
                                 <h5>Stats:</h5>
+                                {% endif %}
                                 <div> 
                                 {% if site.changyan %}
                                     <i class="fa fa-comments-o"> </i> <span id = "url::{{post.url | prepend: page.url}}" class = "cy_cmt_count" ></span> comments
