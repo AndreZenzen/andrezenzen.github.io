@@ -1,7 +1,9 @@
 $(document).ready(function() {
+  var userLang = navigator.language || navigator.userLanguage;
+  userLang = (/br|pt/).test(userLang)?"br":"en";
   var i18nOpts = {
-    lng: 'br',
-    fallbackLng: 'br',
+    lng: userLang,
+    fallbackLng: userLang,
     resGetPath: 'static/locales/__lng__.json'
   };
 
