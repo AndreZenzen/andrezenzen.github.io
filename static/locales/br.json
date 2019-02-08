@@ -26,6 +26,11 @@
   "career":{
     "my_career": "Minha Carreira",
 
+    "freelancer": "Freelancer",
+    "freelancer_des": "Desenvolvimento de sites, utilizando Wordpress, Laravel, Vue.js, React. Desenvolvimento de aplicativos móveis em React native ou Android. Desenvolvimento de APIs e sistemas administrativos. Configurações de servidores para hospedagens.",
+    "freelancer_date": "Atualmente",
+    "freelancer_job": "Freelancer",
+
     "speak": "Língua inglesa",
     "speak_des": "Estudando a língua inglesa e a língua alemã.",
     "speak_date": "Atualmente estudando",

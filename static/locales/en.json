@@ -25,6 +25,11 @@
   },
   "career":{
     "my_career": "My Career",
+
+    "freelancer": "Freelancer",
+    "freelancer_des": "Development of websites, using Wordpress, Laravel, Vue.js, React. Mobile application development on React native or Android. Development of APIs and administrative systems. Server configurations for hosting.",
+    "freelancer_date": "Currently",
+    "freelancer_job": "Freelancer",
     
     "speak": "English language",
     "speak_des": "Studying English and German",

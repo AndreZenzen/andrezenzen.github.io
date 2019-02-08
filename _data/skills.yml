@@ -23,9 +23,33 @@
   percentage: 75
 
 - name: Linux/Shell
-  percentage: 65
+  percentage: 70
 
 - name: ReactJS
+  percentage: 75
+
+- name: Vue.js
+  percentage: 80
+
+- name: React Native
+  percentage: 65
+
+- name: Elasticsearch
+  percentage: 70
+
+- name: Docker
+  percentage: 65
+
+- name: Nginx
+  percentage: 65
+
+- name: MySQL
+  percentage: 85
+
+- name: PostgreSQL
+  percentage: 85
+
+- name: MongoDB
   percentage: 65
 
 

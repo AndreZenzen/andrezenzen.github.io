@@ -1,16 +1,30 @@
 - name:
-    detail: Ingles
-    i18n: speak
+    detail: Freelancer
+    i18n: freelancer
   desc:
-    detail: Estudando o idioma ingles
-    i18n: speak_des
+    detail: Freelancer
+    i18n: freelancer_des
   date:
     detail: Atualmente
-    i18n: speak_date
+    i18n: freelancer_date
   job:
-    detail: Student
-    i18n: speak_job
-  icon: fa-microphone
+    detail: Freelancer
+    i18n: freelancer_job
+  icon: fa-code
+
+# - name:
+#     detail: Ingles
+#     i18n: speak
+#   desc:
+#     detail: Estudando o idioma ingles
+#     i18n: speak_des
+#   date:
+#     detail: Atualmente
+#     i18n: speak_date
+#   job:
+#     detail: Student
+#     i18n: speak_job
+#   icon: fa-microphone
 
 - name:
     detail: Cursos Elasticsearch
@@ -54,19 +68,19 @@
     i18n: college_job
   icon: fa-book
 
-- name:
-    detail: Work
-    i18n: work
-  desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: work_des
-  date:
-    detail: Apr. 2016
-    i18n: work_date
-  job:
-    detail: Python Developer
-    i18n: work_job
-  icon: fa-code
+# - name:
+#     detail: Work
+#     i18n: work
+#   desc:
+#     detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+#     i18n: work_des
+#   date:
+#     detail: Apr. 2016
+#     i18n: work_date
+#   job:
+#     detail: Python Developer
+#     i18n: work_job
+#   icon: fa-code
 
 - name:
     detail: Testing Company Soluções em Qualidade de Software
